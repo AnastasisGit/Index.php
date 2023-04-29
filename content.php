@@ -1,8 +1,5 @@
 <div>
-    <h3>Наши известные клиенты</h3>
-    <?php
-    require_once 'accountBD.php'
-    ?>
+    <p><a href="png2pdf.pdf" download>Визитная карточка нашей компании</a>
 </div>
 <div style="display: flex; flex-direction: row; justify-content: space-between; border-bottom-style: solid; border-bottom-width: 1px">
     <div style="padding: 20px; border-right-style: solid; border-right-width: 1px">
